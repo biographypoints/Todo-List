@@ -1,0 +1,14 @@
+D:\C#\Day 1\taskProject\taskProject\bin\Debug\net8.0\taskProject.exe
+D:\C#\Day 1\taskProject\taskProject\bin\Debug\net8.0\taskProject.deps.json
+D:\C#\Day 1\taskProject\taskProject\bin\Debug\net8.0\taskProject.runtimeconfig.json
+D:\C#\Day 1\taskProject\taskProject\bin\Debug\net8.0\taskProject.dll
+D:\C#\Day 1\taskProject\taskProject\bin\Debug\net8.0\taskProject.pdb
+D:\C#\Day 1\taskProject\taskProject\obj\Debug\net8.0\taskProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Day 1\taskProject\taskProject\obj\Debug\net8.0\taskProject.AssemblyInfoInputs.cache
+D:\C#\Day 1\taskProject\taskProject\obj\Debug\net8.0\taskProject.AssemblyInfo.cs
+D:\C#\Day 1\taskProject\taskProject\obj\Debug\net8.0\taskProject.csproj.CoreCompileInputs.cache
+D:\C#\Day 1\taskProject\taskProject\obj\Debug\net8.0\taskProject.dll
+D:\C#\Day 1\taskProject\taskProject\obj\Debug\net8.0\refint\taskProject.dll
+D:\C#\Day 1\taskProject\taskProject\obj\Debug\net8.0\taskProject.pdb
+D:\C#\Day 1\taskProject\taskProject\obj\Debug\net8.0\taskProject.genruntimeconfig.cache
+D:\C#\Day 1\taskProject\taskProject\obj\Debug\net8.0\ref\taskProject.dll
